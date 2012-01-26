@@ -1,0 +1,19 @@
+<Modules>
+    <Module path="C:\Program Files (x86)\OpenNI\Bin\nimRecorder.dll" />
+    <Module path="C:\Program Files (x86)\OpenNI\Bin\nimMockNodes.dll" />
+    <Module path="C:\Program Files (x86)\OpenNI\Bin\nimCodecs.dll" />
+    <Module path="C:\Program Files (x86)\PrimeSense\SensorKinect\Bin\XnDeviceFile.dll" />
+	<!--  
+    <Module path="C:\Program Files (x86)\PrimeSense\SensorKinect\Bin\XnDeviceSensorV2KM.dll" configDir="C:\Program Files (x86)\PrimeSense\SensorKinect\Data" />
+	-->
+    <Module path="C:\Program Files (x86)\PrimeSense\NITE\Features_1_3_0\Bin\XnVFeatures.dll" configDir="C:\Program Files (x86)\PrimeSense\NITE\Features_1_3_0\Data" />
+    <Module path="C:\Program Files (x86)\PrimeSense\NITE\Features_1_3_1\Bin\XnVFeatures_1_3_1.dll" configDir="C:\Program Files (x86)\PrimeSense\NITE\Features_1_3_1\Data" />
+    <Module path="C:\Program Files (x86)\PrimeSense\NITE\Hands_1_3_0\Bin\XnVHandGenerator.dll" configDir="C:\Program Files (x86)\PrimeSense\NITE\Hands_1_3_0\Data" />
+    <Module path="C:\Program Files (x86)\PrimeSense\NITE\Hands_1_3_1\Bin\XnVHandGenerator_1_3_1.dll" configDir="C:\Program Files (x86)\PrimeSense\NITE\Hands_1_3_1\Data" />
+
+ 
+	<Module path="C:\Program Files (x86)\PrimeSense\SensorKinect\Bin\PanasonicTofImageModule.dll" />
+	<Module path="C:\Program Files (x86)\PrimeSense\SensorKinect\Bin\PanasonicTofDepthModule.dll" />
+
+
+	</Modules>
